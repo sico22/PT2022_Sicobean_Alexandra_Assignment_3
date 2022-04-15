@@ -1,0 +1,4 @@
+Name: Sicobean Alexandra
+Product: Ananas
+Quantity: 20
+Final price: 80
